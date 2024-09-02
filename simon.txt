@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hsdfksajddsdfsfdsf aaasd
-=======
-hsdfksajddsdfsfdsf sadfasdfasdf
->>>>>>> 71f72f465f0dc21013f6506b6b6b73d060298073
+
